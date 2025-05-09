@@ -7,7 +7,6 @@ Descubra as maravilhas da vida selvagem! Nosso zoológico abriga diversas espéc
 
 ## 🦒 Seções do Zoológico
 
-### 🌿 Floresta Tropical (resolvido)
 =======
 ### 🌿 Floresta Tropical (resolvido)
 
