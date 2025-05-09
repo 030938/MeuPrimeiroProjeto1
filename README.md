@@ -6,7 +6,7 @@ Descubra as maravilhas da vida selvagem! Nosso zoológico abriga diversas espéc
 ---
 
 ## 🦒 Seções do Zoológico
-### 🌿 Floresta Tropical
+### 🌿 Floresta Troperro
 - **Animais:** Onças, Macacos, Preguiças
 - **Curiosidade:** A onça-pintada é o maior felino das Américas!
 
