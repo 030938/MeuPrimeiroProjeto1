@@ -11,21 +11,21 @@ Descubra as maravilhas da vida selvagem! Nosso zoológico abriga diversas espéc
 =======
 ### 🌿 Floresta Tropical (resolvido)
 
-- **Animais:** Onças, Macacos, Preguiças
-- **Curiosidade:** A onça-pintada é o maior felino das Américas!
+- **Animais:** Onças, Macacos, Preguiças, etc.
+- **Uma Curiosidade:** A onça-pintada é o maior felino das Américas!
 
 ### 🏜️ Savana Africana
-- **Animais:** Leões, Elefantes, Zebras
-- **Curiosidade:** Os elefantes podem se comunicar através de vibrações no solo.
+- **Animais:** Leões, Elefantes, Zebras, etc.
+- **Uma Curiosidade:** Os elefantes podem se comunicar através de vibrações no solo.
 
 ### 🏔️ Região Polar
-- **Animais:** Pinguins, Ursos Polares, Focas
-- **Curiosidade:** Os pinguins são excelentes nadadores e podem atingir velocidades de 36 km/h!
+- **Animais:** Pinguins, Ursos Polares, Focas, etc.
+- **Uma Curiosidade:** Os pinguins são excelentes nadadores e podem atingir velocidades de 36 km/h!
 
 ---
 
 ## 🗺️ Mapa Interativo
-🔍 Explore o zoológico no nosso [mapa virtual](#)!
+🔍 Explore os caminhos do zoológico, com nosso mapa!
 
 ---
 
@@ -38,7 +38,7 @@ Visite a nossa lojinha de souvenirs e experimente pratos inspirados em diferente
 - **Segunda a Sexta:** 09h - 18h
 - **Sábados e Domingos:** 08h - 19h
 
-🔗 Adquira seu ingresso [aqui](#)!
+🔗 Adquira seu ingresso agora!
 
 ---
 
@@ -50,10 +50,6 @@ Visite a nossa lojinha de souvenirs e experimente pratos inspirados em diferente
 ---
 
 ## 🎫 Contato
-📧 Email: contato@zooguide.com  
+📧 Email: antonella@zoo.com  
 📞 Telefone: +55 11 99999-9999  
-🌐 Site Oficial: [ZooGuide.com](#)
-
----
-
-🦓 **Venha explorar o mundo animal!** 🦜
+🌐 Site Oficial: [Zoo.com](#)
